@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.mentergames.colormatchgame" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>Color Match Game</name>
+    <description>
+        A Color Match Game.
+    </description>
+    <author email="support@phonegap.com" href="http://phonegap.com">
+        From Metergames
+    </author>
+    <preference name="StatusBarBackgroundColor" value="#212429" />
+    <preference name="Orientation" value="portrait" />
+    <icon src="icon.png" />
+  	<splash src="splash.png" />
+    <content src="index.html" />
+    <access origin="*" />
+</widget>
