@@ -13,4 +13,6 @@
   	<splash src="splash.png" />
     <content src="index.html" />
     <access origin="*" />
+    <preference name="Fullscreen" value="true" />
+    
 </widget>
